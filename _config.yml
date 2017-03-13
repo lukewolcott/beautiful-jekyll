@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Luke Wolcott's website
+# title: Luke Wolcott's website #don't want it coming up in the header
 
 # Short description of your site
 description: digital portfolio for data scientist Luke Wolcott
@@ -24,15 +24,19 @@ description: digital portfolio for data scientist Luke Wolcott
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Resume: "http://www.forthelukeofmath.com/documents/cv-current.pdf"
+  Projects:
+    - Modulated Predatory-Prey Dynamics: "https://github.com/lukewolcott/ModulatedPredatorPrey"
+    - InTheResistance: "https://github.com/lukewolcott/InTheResistance"
+    - InteractiveJPDwB: "https://github.com/lukewolcott/InteractiveJPDwB"
+    - TDA with Simulated Data: "https://github.com/lukewolcott/TDAwithSimulatedData"
+    - Water and Rain in Lake Superior: "https://github.com/lukewolcott/WaterAndRainInLakeSuperior"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
+avatar: "/img/P1000489-cropped.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
