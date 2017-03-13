@@ -97,7 +97,7 @@ url-pretty: "lukewolcott.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-20517571-8"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -107,7 +107,7 @@ url-pretty: "lukewolcott.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 500
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
