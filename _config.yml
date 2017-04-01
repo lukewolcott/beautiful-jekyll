@@ -24,7 +24,7 @@ description: digital portfolio for data scientist Luke Wolcott
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "http://www.forthelukeofmath.com/documents/cv-current.pdf"
+  Resume: "http://www.forthelukeofmath.com/documents/resume-current.pdf"
   Math Site: "http://www.forthelukeofmath.com"
   Projects:
     - Modulated Predatory-Prey Dynamics: "https://github.com/lukewolcott/ModulatedPredatorPrey"
