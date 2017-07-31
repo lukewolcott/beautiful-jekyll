@@ -11,4 +11,4 @@ explore it to get a feel; build a ML model, or perform a statistical
 inference, or generate nice plots, or create an interactive Shiny app;
 communicate with a short report.  The goal was to be quick and
 relevant.  [The project repo provides summaries and tags indicating which tools
-I used.](https://github.com/lukewolcott/InTheResistance)
+I used:](https://github.com/lukewolcott/InTheResistance) https://github.com/lukewolcott/InTheResistance
