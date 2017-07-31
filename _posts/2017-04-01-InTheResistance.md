@@ -10,5 +10,7 @@ inspired by the news.  Pose a question; find a dataset; clean it up;
 explore it to get a feel; build a ML model, or perform a statistical
 inference, or generate nice plots, or create an interactive Shiny app;
 communicate with a short report.  The goal was to be quick and
-relevant.  [The project repo provides summaries and tags indicating which tools
-I used:](https://github.com/lukewolcott/InTheResistance) https://github.com/lukewolcott/InTheResistance
+relevant.  The project GitHub repo provides summaries, links to
+reports, and tags indicating which tools I used.
+
+[The GitHub repo is here.](https://github.com/lukewolcott/InTheResistance).
