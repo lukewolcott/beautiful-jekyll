@@ -27,10 +27,11 @@ navbar-links:
   Resume: "http://www.forthelukeofmath.com/documents/resume-current.pdf"
   Math Site: "http://www.forthelukeofmath.com"
   Projects:
-    - Modulated Predatory-Prey Dynamics: "https://github.com/lukewolcott/ModulatedPredatorPrey"
+    - Data4Democracy: "https://lukewolcott.github.io/2017-07-01-DataforDemocracy/"
     - InTheResistance: "https://github.com/lukewolcott/InTheResistance"
-    - InteractiveJPDwB: "https://github.com/lukewolcott/InteractiveJPDwB"
+    - Predatory-Prey Dynamics: "https://github.com/lukewolcott/ModulatedPredatorPrey"
     - TDA with Simulated Data: "https://github.com/lukewolcott/TDAwithSimulatedData"
+    - Interactive TDA: "https://github.com/lukewolcott/InteractiveJPDwB"
     - Water and Rain in Lake Superior: "https://github.com/lukewolcott/WaterAndRainInLakeSuperior"
 
 
@@ -55,7 +56,7 @@ author:
 #  twitter: yourname   # eg. daattali
 #  reddit: yourname    # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: luke-wolcott  # eg. daattali
+  linkedin: luke-wolcott-72964013b  # eg. daattali
 #  xing: yourname      # eg. daattali
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
