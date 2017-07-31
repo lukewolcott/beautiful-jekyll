@@ -4,14 +4,7 @@ title: Data4Democracy project lead
 subtitle: collaboration to analyze Indian health data
 ---
 
-I've traveled to about 70 countries, and spent about 5 years total
-living abroad.  Some of this time was spent volunteering and trying to
-answer the question, "How can I help?"  Since my college years I've
-maintained a passionate interest in environmental issues, and in
-recent years this has grown into a concern for equity and social
-justice issues.  This project aims to use machine learning and data science to help out.  So for 20 weeks I challenged myself to analyze a
-politically-relevant dataset each week.  Some weeks this amounted to a
-data visualization with ggplot or a Shiny app, and other weeks 
-hypothesis testing or machine learning.
+Data for Democracy is an international community of data professionals, trying to be helpful and bring about positive change.  I am leading a team of 5-10 data scientists to analyze data coming from India's National Family Health Survey.  Conducted every ten years, these questionnaires provide rich datasets combining individual and family health, and household characteristics.  We are mainly looking at women's empowerment issues, for example trying to predict the sex of the reported head of the household from  household characteristics.
 
-The weekly files, with explanations, are up at [this GitHub repo](https://github.com/lukewolcott/InTheResistance).
+[The collaboration is playing out on our D4D Github project repo.](https://github.com/Data4Democracy/india-nfhs)  We are using Slack to communicate and data.world to share data.  My responsibilities have included: generating the idea and interest; building the repo, Slack channel, and data.world site; and coalescing teams.
+

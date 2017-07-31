@@ -13,4 +13,4 @@ communicate with a short report.  The goal was to be quick and
 relevant.  The project GitHub repo provides summaries, links to
 reports, and tags indicating which tools I used.
 
-[The GitHub repo is here.](https://github.com/lukewolcott/InTheResistance).
+[The GitHub repo is here.](https://github.com/lukewolcott/InTheResistance)
