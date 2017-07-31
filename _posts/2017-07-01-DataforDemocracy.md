@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data4Democracy project lead
-subtitle: TAGS: collaboration to analyze Indian health data
+subtitle: collaboration to analyze Indian health data
 ---
 
 I've traveled to about 70 countries, and spent about 5 years total
